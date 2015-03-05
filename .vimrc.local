@@ -20,3 +20,7 @@ set relativenumber
 
 " Quicker window movement
 nnoremap <leader>w <C-w>v<C-w>l " ,w opens window to the right
+
+" Color scheme
+set background=dark
+colorscheme solarized
